@@ -7,7 +7,6 @@ The `get_next_line` project is a crucial exercise in file reading and manipulati
 ### Key Objectives
 
 - Develop a function `get_next_line` capable of reading a line from a file descriptor and returning it without the newline character.
-- Handle multiple file descriptors simultaneously and seamlessly.
 - Manage dynamic memory allocation and deallocation efficiently to prevent memory leaks.
 - Ensure the function is robust, adheres to the Norm (42's coding style guide), and is thoroughly tested.
 
