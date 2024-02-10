@@ -13,7 +13,7 @@ The `get_next_line` project is a crucial exercise in file reading and manipulati
 ### Core Features
 
 1. **Reading from File Descriptors:**
-   - Implement the `get_next_line` function capable of reading lines from a file descriptor.
+   - Implement the `get_next_line` function capable of reading lines from file descriptors.
 
 2. **Dynamic Memory Management:**
    - Allocate and deallocate memory dynamically to store and manage data retrieved from file descriptors.
