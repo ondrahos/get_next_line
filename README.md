@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-The `get_next_line` project at 42 School is a crucial exercise in file reading and manipulation in the C programming language. The goal is to create a function that reads a line from a file descriptor, one at a time, until the end of the file. 
+The `get_next_line` project is a crucial exercise in file reading and manipulation in the C programming language. The goal is to create a function that reads a line from a file descriptor, one at a time, until the end of the file. 
 
 ### Key Objectives
 
