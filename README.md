@@ -26,7 +26,7 @@ The `get_next_line` project is a crucial exercise in file reading and manipulati
 
 ### Benefits
 
-- Enhances understanding of file I/O operations in the C programming language.
+- Enhances understanding of file operations in the C programming language.
 - Improves proficiency in managing memory dynamically.
 - Cultivates problem-solving skills and attention to detail.
 
