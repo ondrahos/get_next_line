@@ -32,4 +32,4 @@ The `get_next_line` project is a crucial exercise in file reading and manipulati
 
 ### Conclusion
 
-The `get_next_line` project is an essential exercise for mastering file I/O operations and dynamic memory management in C. By successfully completing this project, students at 42 School strengthen their programming skills and gain valuable experience in dealing with real-world programming challenges.
+The `get_next_line` project is an essential exercise for mastering file operations and dynamic memory management in C. By successfully completing this project, students strengthen their programming skills and gain valuable experience in dealing with real-world programming challenges.
